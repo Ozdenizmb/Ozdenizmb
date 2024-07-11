@@ -2,15 +2,13 @@
 <h1 align="center">Hi 👋, I'm Mehmet Baran Özdeniz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Charity-Volunteer-Service**
+- 🔭 I’m currently working on **Spring Projects**
 
-- 🌱 I’m currently learning **Microservice**
+- 🌱 I’m currently learning **Microservice, Hazelcast, Amazon S3 and Cloudfront**
 
 - 💬 Ask me about **Spring, React, Java and C#**
 
 - 📫 How to reach me **ozdenizm6@gmail.com**
-
-- 📄 Know about my experiences [https://1drv.ms/b/s!AiIQvsmLAQQLjh0sx8NuGErymKuG?e=SerCIb](https://1drv.ms/b/s!AiIQvsmLAQQLjh0sx8NuGErymKuG?e=SerCIb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
