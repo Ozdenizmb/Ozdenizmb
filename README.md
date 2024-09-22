@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEGspsggXkSgw/profile-displaybackgroundimage-shrink_350_1400/0/1680439030555?e=1726099200&v=beta&t=R2Tm505s3Xae3AjwrpBcQR1edceUb-uKnRJMccS4sG8)
+![imagecode](https://github.com/user-attachments/assets/a5bdcc38-7b90-49b1-aaf8-1b3b2d2e05ec)
+
 <h1 align="center">Hi 👋, I'm Mehmet Baran Özdeniz</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
